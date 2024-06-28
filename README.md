@@ -1,5 +1,4 @@
 <h1 align="center">Merhaba 👋, ben Ömer Sefa</h1>
-<h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 </p>
 
