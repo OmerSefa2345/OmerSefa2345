@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Ömer Sefa</h1>
-<h1>align="center">A passionate software developer from Turkiye</h1>
+<h1 align="center">A passionate software developer from Turkiye</h1>
 <hr align="center" size= 7>
 <p align="left">
 </p>
