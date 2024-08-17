@@ -6,7 +6,7 @@
 
 
 - How to reach me **omercarikci204@gmail.com**
-- Some of My Projects **Cinema Automation, Vehicle and Personnel Management System**
+- Some of My Projects **Cinema Automation, Vehicle and Personnel Management System, Dantel Office Automation**
 - Web Information **HTML5 and CSS3**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
